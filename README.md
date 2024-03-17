@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # Metaverse
 Uma landing page animada com movimento Framer
 
-## 👨🏾‍💻 Technologies
+## 👨🏾‍💻 Tecnologias
 * React
 * Next.js
 * Tailwind
