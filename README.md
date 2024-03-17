@@ -12,7 +12,7 @@ Uma landing page animada com movimento Framer
 ## 🚦 Para executar o projeto
 1. Clone o repositório em seu local.
 2. Instale as dependências do projeto com ``npm install`` or ``yarn``
-3. Para vizualizar a aplicação localmente, execute ``npm start``
+3. Para vizualizar a aplicação localmente, execute ``npm run dev``
 
 ## 🍿 Demo
 https://github.com/codesofC/metaverse/assets/76754023/1ddaf918-92ed-4912-8f11-5d0ab5206f50
